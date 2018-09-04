@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c4456a02-be57-4179-a031-2114a382efb2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../01. FirstStepsInProgramming/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../01. FirstStepsInProgramming/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../01. FirstStepsInProgramming/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../01. FirstStepsInProgramming/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c4456a02-be57-4179-a031-2114a382efb2" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,42 +19,33 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="2" />
+          <entry key="java" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="2" />
+          <entry key="JAVA" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="723" />
+          <entry key="java" value="1462" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="723" />
+          <entry key="JAVA" value="1462" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Task01_StadiumIncome.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="17" column="1" selection-end-line="17" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Task01_TripToWorldCup.java">
+        <entry file="file://$PROJECT_DIR$/src/Task02_FootballKit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="6" column="46" lean-forward="true" selection-end-line="20" selection-end-column="1" />
+            <state relative-caret-position="520">
+              <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -79,6 +67,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/Task01_StadiumIncome.java" />
         <option value="$PROJECT_DIR$/src/Task01_TripToWorldCup.java" />
+        <option value="$PROJECT_DIR$/src/Task02_BeerAndChips.java" />
+        <option value="$PROJECT_DIR$/src/Task02_FootballKit.java" />
       </list>
     </option>
   </component>
@@ -118,7 +108,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536065923411" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536068933871" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -132,7 +122,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Task01_TripToWorldCup">
+  <component name="RunManager" selected="Application.Task02_FootballKit">
     <configuration name="Task01_StadiumIncome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Task01_StadiumIncome" />
       <module name="Exam-28 and 29 July" />
@@ -147,12 +137,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Task02_BeerAndChips" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task02_BeerAndChips" />
+      <module name="Exam-28 and 29 July" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task02_FootballKit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task02_FootballKit" />
+      <module name="Exam-28 and 29 July" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Task01_StadiumIncome" />
       <item itemvalue="Application.Task01_TripToWorldCup" />
+      <item itemvalue="Application.Task02_BeerAndChips" />
+      <item itemvalue="Application.Task02_FootballKit" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task02_FootballKit" />
+        <item itemvalue="Application.Task02_BeerAndChips" />
         <item itemvalue="Application.Task01_TripToWorldCup" />
         <item itemvalue="Application.Task01_StadiumIncome" />
       </list>
@@ -180,7 +188,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.05383795" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15245202" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -219,6 +227,13 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Task01_TripToWorldCup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Task01_StadiumIncome.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
@@ -226,10 +241,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Task01_TripToWorldCup.java">
+    <entry file="file://$PROJECT_DIR$/src/Task02_BeerAndChips.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="6" column="46" lean-forward="true" selection-end-line="20" selection-end-column="1" />
+        <state relative-caret-position="216">
+          <caret line="9" column="41" lean-forward="true" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Task02_FootballKit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
         </state>
       </provider>
     </entry>
