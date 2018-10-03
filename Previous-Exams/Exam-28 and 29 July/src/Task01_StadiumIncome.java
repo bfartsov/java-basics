@@ -4,9 +4,9 @@ public class Task01_StadiumIncome {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
-        int sectors = scan.nextInt();
-        int capacity = scan.nextInt();
-        double ticketPrice = scan.nextDouble();
+        int sectors = Integer.parseInt(scan.nextLine());
+        int capacity = Integer.parseInt(scan.nextLine());
+        double ticketPrice = Double.parseDouble(scan.nextLine());
 
         double sectorIncomes = (capacity * ticketPrice) / sectors;
         double profit = sectorIncomes * sectors;

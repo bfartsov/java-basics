@@ -5,9 +5,9 @@ public class Task02_BeerAndChips {
         Scanner scan = new Scanner(System.in);
 
         String name = scan.nextLine();
-        double budget = scan.nextDouble();
-        int bottles = scan.nextInt();
-        int packetChips = scan.nextInt();
+        double budget = Double.parseDouble(scan.nextLine());
+        int bottles = Integer.parseInt(scan.nextLine());
+        int packetChips = Integer.parseInt(scan.nextLine());
 
         double beerTotalPrice = 1.20 * bottles;
         double priceChipsPacket = beerTotalPrice * 0.45;

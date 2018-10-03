@@ -4,8 +4,8 @@ public class Task02_FootballKit {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
-        double tshirtPrice = scan.nextDouble();
-        double moneyForBall = scan.nextDouble();
+        double tshirtPrice = Double.parseDouble(scan.nextLine());
+        double moneyForBall = Double.parseDouble(scan.nextLine());
 
         double pantsPrice = tshirtPrice * 0.75;
         double socksPrice = pantsPrice * 0.2;

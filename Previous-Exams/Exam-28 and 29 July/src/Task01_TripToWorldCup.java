@@ -3,11 +3,12 @@ import java.util.Scanner;
 public class Task01_TripToWorldCup {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
-        double ticketGo = scan.nextDouble();
-        double ticketBack = scan.nextDouble();
-        double ticketMatch = scan.nextDouble();
-        int matches = scan.nextInt();
-        int discount = scan.nextInt();
+
+        double ticketGo = Double.parseDouble(scan.nextLine());
+        double ticketBack = Double.parseDouble(scan.nextLine());
+        double ticketMatch = Double.parseDouble(scan.nextLine());
+        int matches = Integer.parseInt(scan.nextLine());
+        int discount = Integer.parseInt(scan.nextLine());
 
         double sumPlaneTickets = (6 * (ticketGo + ticketBack));
         double planeTickets = sumPlaneTickets - (sumPlaneTickets * (discount/100.0));
